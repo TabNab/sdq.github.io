@@ -7,7 +7,7 @@ author:     "sdq"
 header-img: "img/post-bg-06.jpg"
 ---
 
-<p>原文出自<a href="http://www.andrewcbancroft.com/2015/03/26/what-is-delegation-a-swift-developers-guide/">What is Delegation? – A Swift Developer’s Guide</a>.</p>
+<p>翻译自原文<a href="http://www.andrewcbancroft.com/2015/03/26/what-is-delegation-a-swift-developers-guide/">What is Delegation? – A Swift Developer’s Guide</a>.</p>
 
 <h2 class="section-heading">什么叫代理模式</h2>
 
