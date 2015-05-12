@@ -1,8 +1,8 @@
 # Site settings
-title: SDQ Blog
+title: 史丹青的博客
 header-img: img/home-bg.jpg
 email: sdq1990@hotmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "分享生活"
 baseurl: ""
 url: "http://sdq.github.io"
 twitter_username: 
