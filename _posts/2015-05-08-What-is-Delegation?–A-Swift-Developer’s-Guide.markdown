@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "什么是委托代理"
+title:      "什么是代理设计模式"
 subtitle:   "Swift开发者指南"
 date:       2015-05-08 12:00:00
 author:     "sdq"
@@ -33,7 +33,7 @@ header-img: "img/post-bg-06.jpg"
 * 名词，“a delegate”,意思是“代理人”。
 * 改造的名词，“a delegator“,意思是“委托人”。
 
-<p>在现实世界中，代理这个词同事囊括了关系与责任。委托人(delegator名词)将控制权与责任委托(delegate动词)给另一个人，也就是代理人(delegate)。</p>
+<p>在现实世界中，代理这个词同时囊括了关系与责任。委托人(delegator名词)将控制权与责任委托(delegate动词)给另一个人，也就是代理人(delegate)。</p>
 
 <p>那么我们怎么将其映射到软件中去呢？事实上，它能很好地运用到代码中。</P>
 
