@@ -4,7 +4,7 @@ title:      "从建筑历史看未来web设计"
 subtitle:   ""
 date:       2015-05-13 12:00:00
 author:     "sdq"
-从建筑历史看未来web设计
+header-img: "img/post-bg-06.jpg"
 ---
 翻译自[The Future of Web Design is Hidden in the History of Architecture](https://medium.com/@sall/the-future-of-web-design-is-hidden-in-the-history-of-architecture-1cc93ea854d0)
 
