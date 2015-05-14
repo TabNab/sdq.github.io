@@ -19,8 +19,8 @@ header-img: "img/post-bg-06.jpg"
 
 <h2 class="section-heading"> I. 石器时代 <h2>
 
-<p>*简单结构*<p>
+<p>简单结构<p>
 
 <p>完全没有考虑大小与位置，这一时期的作品只是简单地把石块堆放到固定的地点（把信息堆叠在网页上）。<p>
 
-![1](https://d262ilb51hltx0.cloudfront.net/fit/c/1600/1600/1*mCWATHKKKlzsX8dD8MqjVA.jpeg)![2](https://d262ilb51hltx0.cloudfront.net/fit/c/1104/1104/1*ghZaQXXN2fYkYrfdJYSZGA.png)
+<img src="https://d262ilb51hltx0.cloudfront.net/fit/c/1600/1600/1*mCWATHKKKlzsX8dD8MqjVA.jpeg"><img src="https://d262ilb51hltx0.cloudfront.net/fit/c/1104/1104/1*ghZaQXXN2fYkYrfdJYSZGA.png">
