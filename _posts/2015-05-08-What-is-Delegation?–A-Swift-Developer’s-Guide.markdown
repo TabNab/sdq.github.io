@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "什么是代理设计模式"
-subtitle:   "Swift开发者指南"
 date:       2015-05-08 12:00:00
 author:     "sdq"
 header-img: "img/post-bg-06.jpg"
